@@ -6,15 +6,15 @@
 </description>
     <link>http://lks21c.gitub.io/</link>
     <atom:link href="http://lks21c.gitub.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 11 May 2015 11:06:45 +0900</pubDate>
-    <lastBuildDate>Mon, 11 May 2015 11:06:45 +0900</lastBuildDate>
+    <pubDate>Mon, 11 May 2015 11:18:52 +0900</pubDate>
+    <lastBuildDate>Mon, 11 May 2015 11:18:52 +0900</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>첫포스팅</title>
         <description>&lt;p&gt;마크다운으로 이렇게 편하게 블로깅을 할수 있다는 것은 놀랍다.&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;def print_hi(name)
+&lt;pre&gt;&lt;code class=&quot;language-ruby&quot;&gt;def print_hi(name)
   puts &quot;Hi, #{name}&quot;
 end
 print_hi(&#39;Tom&#39;)
