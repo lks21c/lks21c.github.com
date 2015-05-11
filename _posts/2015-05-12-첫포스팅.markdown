@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 마크다운으로 이렇게 편하게 블로깅을 할수 있다는 것은 놀랍다.
 
-```
+```ruby
 def print_hi(name)
   puts "Hi, #{name}"
 end

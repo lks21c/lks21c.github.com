@@ -12,3 +12,6 @@ github_username: lks21c
 
 # Build settings
 markdown: kramdown
+
+kramdown:
+  input: GFM

@@ -1,36 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
+    <title>크림슈가도넛의 Github Pages</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 11 May 2015 10:59:52 +0900</pubDate>
-    <lastBuildDate>Mon, 11 May 2015 10:59:52 +0900</lastBuildDate>
+    <link>http://lks21c.gitub.io/</link>
+    <atom:link href="http://lks21c.gitub.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 11 May 2015 11:06:45 +0900</pubDate>
+    <lastBuildDate>Mon, 11 May 2015 11:06:45 +0900</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>첫포스팅</title>
-        <description>&lt;p&gt;마크다운으로 이렇게 편하게 블로깅을 할수 있다는 것은 놀랍다.
-You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve --watch&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <description>&lt;p&gt;마크다운으로 이렇게 편하게 블로깅을 할수 있다는 것은 놀랍다.&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
-
+&lt;pre&gt;&lt;code&gt;def print_hi(name)
+  puts &quot;Hi, #{name}&quot;
+end
+print_hi(&#39;Tom&#39;)
+#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.
+&lt;/code&gt;&lt;/pre&gt;
 </description>
         <pubDate>Mon, 11 May 2015 19:51:21 +0900</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/05/11/%EC%B2%AB%ED%8F%AC%EC%8A%A4%ED%8C%85.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/05/11/%EC%B2%AB%ED%8F%AC%EC%8A%A4%ED%8C%85.html</guid>
+        <link>http://lks21c.gitub.io/jekyll/update/2015/05/11/%EC%B2%AB%ED%8F%AC%EC%8A%A4%ED%8C%85.html</link>
+        <guid isPermaLink="true">http://lks21c.gitub.io/jekyll/update/2015/05/11/%EC%B2%AB%ED%8F%AC%EC%8A%A4%ED%8C%85.html</guid>
         
         
         <category>jekyll</category>
@@ -57,8 +50,8 @@ You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ah
 
 </description>
         <pubDate>Mon, 11 May 2015 19:51:21 +0900</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/05/11/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/05/11/welcome-to-jekyll.html</guid>
+        <link>http://lks21c.gitub.io/jekyll/update/2015/05/11/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://lks21c.gitub.io/jekyll/update/2015/05/11/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
