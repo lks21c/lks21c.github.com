@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "첫포스팅"
+date:   2015-05-11 10:51:21
+categories: jekyll update
+---
+마크다운으로 이렇게 편하게 블로깅을 할수 있다는 것은 놀랍다.
+
+```
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+```
